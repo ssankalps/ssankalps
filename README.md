@@ -1,4 +1,4 @@
-# Hi, I am Sankalp Sharma 👋
+# Hi, I am Sankalp. Welcome to my humble web-abode! 👋
 
 Computer Science & Engineering graduate with a Master's in Embedded Systems.
 
@@ -28,12 +28,12 @@ I have previously worked across strategy, operations, and engineering in startup
 
 I write about technology, systems, engineering, and things I find interesting.
 
-- **Blog:** [Read my blog](YOUR_BEARBLOG_URL)
+- **Blog:** [Read my blog](https://sankalpsharma.me/)
 
 ### 📫 Connect
 
-- **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+- **Email:** [YOUR_EMAIL](mailto:sankalp.sharma459@gmail.com)
 - **LinkedIn:** [Sankalp Sharma](https://www.linkedin.com/in/ssankalps/)
-- **Blog:** [YOUR_BEARBLOG_URL](YOUR_BEARBLOG_URL)
+- **Blog:** [YOUR_BEARBLOG_URL](https://sankalpsharma.me/)
 
 ---
