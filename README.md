@@ -28,12 +28,12 @@ I have previously worked across strategy, operations, and engineering in startup
 
 I write about technology, systems, engineering, and things I find interesting.
 
-- **Blog:** [Read my blog](https://sankalpsharma.me/)
+- **Blog:** <a href="https://sankalpsharma.me/" target="_blank" rel="noopener noreferrer">Read my blog</a>
 
 ### 📫 Connect
 
 - **Email:** [YOUR_EMAIL](mailto:sankalp.sharma459@gmail.com)
-- **LinkedIn:** [Sankalp Sharma](https://www.linkedin.com/in/ssankalps/)
-- **Blog:** [YOUR_BEARBLOG_URL](https://sankalpsharma.me/)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/ssankalps/" target="_blank" rel="noopener noreferrer">Sankalp Sharma</a>
+- **Blog:** <a href="https://sankalpsharma.me/" target="_blank" rel="noopener noreferrer">Read my blog</a>
 
 ---
