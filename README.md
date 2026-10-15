@@ -32,7 +32,7 @@ I write about technology, systems, engineering, and things I find interesting.
 
 ### 📫 Connect
 
-- **Email:** [YOUR_EMAIL](mailto:sankalp.sharma459@gmail.com)
+- **Email:** [sankalp.sharma459@gmail.com](mailto:sankalp.sharma459@gmail.com)
 - **LinkedIn:** <a href="https://www.linkedin.com/in/ssankalps/" target="_blank" rel="noopener noreferrer">Sankalp Sharma</a>
 - **Blog:** <a href="https://sankalpsharma.me/" target="_blank" rel="noopener noreferrer">Read my blog</a>
 
