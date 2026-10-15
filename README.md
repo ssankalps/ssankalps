@@ -1,16 +1,39 @@
-## Welcome to my humble web-abode! 👋
+# Hi, I am Sankalp Sharma 👋
 
-<!--
-**ssankalps/ssankalps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering graduate with a Master's in Embedded Systems.
 
-Here are some ideas to get you started:
+I am interested in understanding how complex systems work, from software and computer architecture to embedded systems, electronics, and hardware. My interests span systems programming, cybersecurity, AI/ML, and defence technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have previously worked across strategy, operations, and engineering in startup environments, including the Founder’s Office at a marine defence technology startup. I am now focusing on building deeper technical expertise through hands-on projects, experimentation, and studying systems from first principles.
+
+### 🔧 Interests
+
+- Systems Programming and Computer Architecture
+- Operating Systems and Linux
+- Embedded Systems and Firmware
+- Cybersecurity and Systems Security
+- Parallel Computing and CUDA
+- Electronics and Hardware Engineering
+- AI/ML and Edge Computing
+- Defence and Deep Technology
+
+### 🚀 Projects & Experiments
+
+- **GPU Computing:** Exploring parallel computing and CPU vs. GPU performance using CUDA.
+- **Federated Learning:** Distributed object detection across NVIDIA Jetson Nano and Raspberry Pi.
+- **Network Packet Sniffer:** Analysing network traffic using raw sockets in C.
+- **MEMS-Based Inertial Impact Switch:** Exploring the design of a MEMS-based inertial switch for impact detection and event-triggered activation.
+
+### 📝 Writing
+
+I write about technology, systems, engineering, and things I find interesting.
+
+- **Blog:** [Read my blog](YOUR_BEARBLOG_URL)
+
+### 📫 Connect
+
+- **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+- **LinkedIn:** [Sankalp Sharma](https://www.linkedin.com/in/ssankalps/)
+- **Blog:** [YOUR_BEARBLOG_URL](YOUR_BEARBLOG_URL)
+
+---
